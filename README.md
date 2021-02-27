@@ -1,1 +1,1 @@
-# agent-scriots
+# agent-scripts
